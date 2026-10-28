@@ -1,3 +1,4 @@
+
 {
   "name": "daily-video-ai-backend",
   "version": "1.0.0",
@@ -7,6 +8,7 @@
     "start": "node server.js"
   },
   "dependencies": {
+    "@google/genai": "^1.0.0",
     "express": "^5.1.0"
   }
 }
